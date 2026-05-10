@@ -81,7 +81,7 @@ avec Proteus ISIS pour visualiser et exécuter la simulation complète.
 Ce projet a été co-rédigé et présenté sous forme d'**article IEEE** à la conférence  
 nationale **NCASEE'24** (Boumerdes, Juin 2024).
 
-📄 [Voir le résumé du projet](docs/PH meter_résumé.pdf)  
+📄 [Voir le résumé du projet](docs/ph_metre_résumé.pdf)  
 🏆 [Certificat de participation NCASEE'24](docs/certificate_ncasee24.pdf)
 
 ---
