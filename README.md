@@ -82,7 +82,7 @@ Ce projet a été co-rédigé et présenté sous forme d'**article IEEE** à la 
 nationale **NCASEE'24** (Boumerdes, Juin 2024).
 
 📄 [Voir le résumé du projet](docs/PH_meter_résumé.pdf)  
-🏆 [Certificat de participation NCASEE'24](docs/certificate_ncasee24.pdf)
+🏆 [Certificat de participation NCASEE'24](docs/Attestations_Participation_NCASEE2024-59.pdf)
 
 ---
 
