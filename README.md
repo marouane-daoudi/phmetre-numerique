@@ -57,10 +57,10 @@ Simulation réalisée sous **Proteus 8 (ISIS)** — ouvrir le fichier `PH_meter.
 avec Proteus ISIS pour visualiser et exécuter la simulation complète.
 
 ### Schéma complet
-![Schéma complet](screenshots/schema_complet.png)
+![Schéma complet](capture_écran/PH_metre_1.PNG)
 
 ### Sortie LCD
-![Sortie LCD](screenshots/sortie_lcd.png)
+![Sortie LCD](capture_ecran/result.PNG)
 
 ### Prototype réel
 ![Prototype](photos/prototype_reel.jpg)
