@@ -63,7 +63,8 @@ avec Proteus ISIS pour visualiser et exécuter la simulation complète.
 ![Sortie LCD](capture_écran/result.PNG)
 
 ### Prototype réel
-![Prototype](photos/prototype_reel.jpg)
+![Prototype](photos/prototype_reel1.jpg)
+![Prototype](photos/prototype_reel2.jpg)
 
 ---
 
