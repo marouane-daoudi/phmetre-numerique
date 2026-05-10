@@ -53,7 +53,7 @@ Le système est composé de quatre étages principaux :
 
 ## Simulation
 
-Simulation réalisée sous **Proteus 8 (ISIS)** — ouvrir le fichier `PH_meter.pdsprj`  
+Simulation réalisée sous **Proteus 8 (ISIS)** — ouvrir le fichier `phmetre_numerique_simulation.pdsprj`  
 avec Proteus ISIS pour visualiser et exécuter la simulation complète.
 
 ### Schéma complet
