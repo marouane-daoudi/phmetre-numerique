@@ -60,7 +60,7 @@ avec Proteus ISIS pour visualiser et exécuter la simulation complète.
 ![Schéma complet](capture_écran/PH_metre_1.PNG)
 
 ### Sortie LCD
-![Sortie LCD](capture_ecran/result.PNG)
+![Sortie LCD](capture_écran/result.PNG)
 
 ### Prototype réel
 ![Prototype](photos/prototype_reel.jpg)
